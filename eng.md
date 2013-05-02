@@ -1,5 +1,7 @@
 # I’m still here: back online after a year without the internet
 
+![Paul Miller](img/paul_lede_large_verge_super_wide.jpg "Paul Miller")
+
 I was wrong.
 
 One year ago I left the internet. I thought it was making me unproductive. I
@@ -20,6 +22,8 @@ blinking cursor in this text document, willing it to write itself, willing it
 to generate the epiphanies my life has failed to produce.
 
 I didn't want to meet this Paul at the tail end of my yearlong journey.
+
+<script height="405px" width="720px" src="http://player.ooyala.com/iframe.js#pbid=dcc84e41db014454b08662a766057e2b&ec=I4cGJiYjr7TOW4MAG6jWIHwDp6pWhBo9"></script>
 
 In early 2012 I was 26 years old and burnt out. I wanted a break from modern
 life — the hamster wheel of an email inbox, the constant flood of WWW
@@ -68,6 +72,14 @@ world.
 
 This was going to be amazing.
 
+<div style="float:left; width:35%; margin-right:15px">
+  <img src="img/paul_405_1.jpg" 
+       alt="I dreamed a dream" 
+       title="I dreamed a dream"
+       width="100%"
+  >
+</div>
+
 ## I dreamed a dream
 
 And everything started out great, let me tell you. I *did* stop and smell the
@@ -111,6 +123,14 @@ during *Les Miserables*.
 It seemed then, in those first few months, that my hypothesis was right. The
 internet had held me back from my true self, the better Paul. I had pulled the
 plug and found the light.
+
+<div style="float: right; width: 35%; margin-left: 15px">
+  <img src="img/paul_405_3.jpg" 
+       alt="Back to reality" 
+       title="Back to reality"
+       width="100%"
+  >
+</div>
 
 ## Back to reality
 
@@ -212,6 +232,8 @@ in touch with the "real" world, but the real Paul and the real world are
 already inextricably linked to the internet. Not to say that my life wasn't
 different without the internet, just that it wasn't real life.
 
+![It wasn't real life.](img/paul_1020_1.jpg "It wasn't real life.")
+
 ## Family time
 
 A couple weeks ago I was in Colorado to see my brother before he deployed to
@@ -259,6 +281,8 @@ and yet dreaded the return to isolation.
 
 In two weeks I'd be back on the internet. I felt like a failure. I felt like I
 was giving up once again. But I knew the internet was where I belonged.
+
+![I knew the internet was where I belonged.](img/paul_1020_2.jpg "I knew the internet was where I belonged.")
 
 ## 12:00AM, May 1st, 2013
 

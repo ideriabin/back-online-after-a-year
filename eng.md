@@ -50,7 +50,7 @@ sprinkle wisdom on them from my high tower.
 
 My goal, as a technology writer, would be to discover what the internet had
 done to me over the years. To understand the internet by studying it "at a
-distance." I wouldn't just become a better human, I would help us all to
+distance". I wouldn't just become a better human, I would help us all to
 become better humans. Once we understood the ways in which the internet was
 corrupting us, we could finally fight back.
 
@@ -66,9 +66,9 @@ internet. He was ecstatic to meet me. I had chosen to avoid the internet for
 many of the same reasons his religion expressed caution about the modern
 world.
 
-"It's reprogramming our relationships, our emotions, and our sensitivity, said
-"one of the rabbis at the rally. It destroys our patience. It turns kids into
-"click vegetables.
+"It's reprogramming our relationships, our emotions, and our sensitivity", 
+said one of the rabbis at the rally. It destroys our patience. It turns kids 
+into click vegetables.
 
 This was going to be amazing.
 

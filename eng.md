@@ -294,18 +294,18 @@ we do *with* each other. The internet is where people are.
 
 My last afternoon in Colorado I sat down with my 5-year-old niece, Keziah, and
 tried to explain to her what the internet is. She'd never heard of "the
-internet," but she's huge on Skype with the grandparent set. I asked her if
+internet", but she's huge on Skype with the grandparent set. I asked her if
 she'd wondered why I never Skyped with her this year. She had.
 
-"I thought it was because you didn't want to, she said.
+"I thought it was because you didn't want to", she said.
 
 With tears in my eyes, I drew her a picture of what the internet is. It was
 computers and phones and televisions, with little lines connecting them. Those
 lines are the internet. I showed her my computer, drew a line to it, and
 erased that line.
 
-"I spent a year without using any internet, I told her. But now I'm coming
-"back and I can Skype with you again.
+"I spent a year without using any internet, I told her. "But now I'm coming
+back and I can Skype with you again".
 
 When I return to the internet, I might not use it well. I might waste time, or
 get distracted, or click on all the wrong links. I won't have as much time to
